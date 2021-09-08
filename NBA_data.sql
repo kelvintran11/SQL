@@ -1,3 +1,9 @@
+/* 
+We'll be analyzing player data in the NBA from 1996-2021. 
+The data was directly collected by making an API call to stats.nba.com using a custom Python script. All of the data if fully attributed to NBA.com.
+The data was taken from https://www.kaggle.com/justinas/nba-players-data
+*/ 
+
 SELECT *
 FROM NBA_data
 
