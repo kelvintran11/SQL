@@ -1,3 +1,10 @@
+/*
+We'll be cleaning the Coffee Quality database from Coffee Quality Institute. We'll only be using the arabica_data.
+The data has been retrieved from: https://www.kaggle.com/volpatto/coffee-quality-database-from-cqi
+Python scrapping scripts were used in order to collect data from https://database.coffeeinstitute.org/ 
+The author and codes can be found in the following GitHub's repository: https://github.com/jldbc/coffee-quality-database
+*/
+
 SELECT *
 FROM arabica_data
 
