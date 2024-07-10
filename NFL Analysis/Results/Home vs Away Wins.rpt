@@ -1,0 +1,9 @@
+﻿HOME_WINS   AWAY_WINS   HOME_WIN_PTS AWAY_WIN_PTS
+----------- ----------- ------------ ------------
+160         124         12           9
+Warning: Null value is eliminated by an aggregate or other SET operation.
+
+(1 row affected)
+
+
+Completion time: 2024-07-09T19:40:07.0221533-05:00

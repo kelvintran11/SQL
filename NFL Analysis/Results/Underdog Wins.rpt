@@ -1,0 +1,9 @@
+﻿UNDERDOG_WINS FAVORITE_WINS TOTAL_GAMES
+------------- ------------- -----------
+92            193           285
+Warning: Null value is eliminated by an aggregate or other SET operation.
+
+(1 row affected)
+
+
+Completion time: 2024-07-09T19:40:19.6960285-05:00
